@@ -1,0 +1,18 @@
+# Заборонені для репозиторію формати (вимоги курсу)
+*.pdf
+*.doc
+*.docx
+*.zip
+*.rar
+
+# Локальні артефакти та резервні копії з методички / старих версій
+_excluded_files/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.tmp
